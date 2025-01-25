@@ -296,8 +296,6 @@ http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8
 https://edge1.socialsmart.tv/naturaltv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="NoraTV.tr",Nora TV (1080p)
 https://live.artidijitalmedya.com/artidijital_noratv/noratv/playlist.m3u8
-#EXTINF:-1 tvg-id="NOWTV.tr",NOW TV
-http://bozztv.com/gin-trn09/gin-turkfoxtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NTV.tr",NTV (720p) [Not 24/7]
 https://dogus-live.daioncdn.net/ntv/ntv.m3u8
 #EXTINF:-1 tvg-id="NTVSpor.tr",NTV Spor
@@ -554,3 +552,29 @@ https://live.artidijitalmedya.com/artidijital_worldturk/worldturk/playlist.m3u8
 https://stream.yol.tv:9443/medialive/yol.m3u8
 #EXTINF:-1 tvg-id="ZarokTV.tr",Zarok TV (720p)
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ShowTurk.tr",Show Turk
+https://canlitvulusal.xyz/live/showturk/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.tr",Cartoon Network
+https://canlitvulusal.xyz/live/cartoonnetwork/index.m3u8
+#EXTINF:-1 tvg-id="A2TV.tr",A2TV
+https://c.fulltvizle.com/a2/index.m3u8
+#EXTINF:-1 tvg-id="ATV.tr",ATV
+https://c.fulltvizle.com/aytv/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.tr",Cartoon Network
+https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live_720p2000000kbps/index.m3u8
+#EXTINF:-1 tvg-id="ShowMax.tr",Show Max
+https://canlitvulusal.xyz/live/showmax/index.m3u8
+#EXTINF:-1 tvg-id="beINSportsHaber.tr",beIN Sports Haber
+https://canlitvulusal3.xyz/live/beinsportshaber/index.m3u8
+#EXTINF:-1 tvg-id="NOWTV.tr",NOW TV
+https://c.fulltvizle.com/fox/index.m3u8
+#EXTINF:-1 tvg-id="A2TV.tr",A2TV
+https://canlitvulusal.xyz/live/a2tv/index.m3u8
+#EXTINF:-1 tvg-id="ATV.tr",ATV
+http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="ATV.tr",ATV
+https://streamer2.nexgen.bz/ATV/index.m3u8
+#EXTINF:-1 tvg-id="HTSporTV.tr",HTSpor TV (1080p)
+https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web&ppid=675956db19f9bb686edda21d15d911e8&dfp_paln=AQzzBGQEBm1BO0E2iVe9tLfcsqJ3gAOMJ63P8Ch
+#EXTINF:-1 tvg-id="MekameleenTV.tr",Mekameleen TV (1080p)
+https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
